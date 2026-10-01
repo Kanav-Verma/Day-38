@@ -26,7 +26,9 @@ int main() {
                     break;
                 }
             }
-            
+            if (symmetric==0) {
+                break;
+            }
         }
     }
 
